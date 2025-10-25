@@ -2296,8 +2296,8 @@
                 "furLeather": false,
                 "gambling": false,
                 "gmo": false,
-                "governullcePercentile": null,
-                "governullceScore": 4.66,
+                "governancePercentile": null,
+                "governanceScore": 4.66,
                 "highestControversy": 3.0,
                 "maxAge": 86400,
                 "militaryContract": false,
@@ -2314,7 +2314,7 @@
                     "avg": 15.591935483870968,
                     "max": 27.28
                 },
-                "peerGovernullcePerformance": {
+                "peerGovernancePerformance": {
                     "min": 2.91,
                     "avg": 4.872413793103448,
                     "max": 8.09
@@ -2398,10 +2398,10 @@
             "Total Non Current Assets": 9634000000.0,
             "Defined Pension Benefit": 186000000.0,
             "Non Current Deferred Taxes Assets": 55000000.0,
-            "Finullcial Assets": 160000000.0,
-            "Investmentin Finullcial Assets": 234000000.0,
+            "Financial Assets": 160000000.0,
+            "Investmentin Financial Assets": 234000000.0,
             "Available For Sale Securities": 234000000.0,
-            "Finullcial Assets Designatedas Fair Value Through Profitor Loss Total": null,
+            "Financial Assets Designatedas Fair Value Through Profitor Loss Total": null,
             "Long Term Equity Investment": 11000000.0,
             "Investmentsin Associatesat Cost": 11000000.0,
             "Goodwill And Other Intangible Assets": 8399000000.0,
@@ -2423,14 +2423,14 @@
             "Other Short Term Investments": null,
             "Cash And Cash Equivalents": 312000000.0,
             "Cash Equivalents": 141000000.0,
-            "Cash Finullcial": 171000000.0
+            "Cash financial": 171000000.0
         },
         "Country": "Ireland",
         "Currency": "GBp",
         "Industry": "Consulting Services",
         "Sector": "Industrials",
         "Number of employees": 22500,
-        "Description": "Experian plc, together with its subsidiaries, operates as a data and technology company in North America, Latin America, the United Kingdom, Ireland, Europe, the Middle East, Africa, and the Asia Pacific. It operates through two segments, Business-to-Business and Consumer Services. The company collects, sorts, aggregates, and transforms data from various sources to provide a range of data-driven services. It also owns, create, and develops analytics, predictive tools, sophisticated software, and platforms; credit risk, fraud prevention, identity management, customer service and engagement, account processing, and account management services; data analysis, and research and development services. In addition, the company provides credit education, free access to Experian credit reports and scores, and online educational tools. It serves its customers in finullcial service, direct-to-consumer, health, retail, software and professional services, automotive, insurance, media and technology, telecommunications and utility, and other industries, as well as government and public sectors. The company was formerly known as Experian Group Limited and changed its name to Experian plc in July 2008. Experian plc was founded in 1826 and is headquartered in Dublin, Ireland."
+        "Description": "Experian plc, together with its subsidiaries, operates as a data and technology company in North America, Latin America, the United Kingdom, Ireland, Europe, the Middle East, Africa, and the Asia Pacific. It operates through two segments, Business-to-Business and Consumer Services. The company collects, sorts, aggregates, and transforms data from various sources to provide a range of data-driven services. It also owns, create, and develops analytics, predictive tools, sophisticated software, and platforms; credit risk, fraud prevention, identity management, customer service and engagement, account processing, and account management services; data analysis, and research and development services. In addition, the company provides credit education, free access to Experian credit reports and scores, and online educational tools. It serves its customers in financial service, direct-to-consumer, health, retail, software and professional services, automotive, insurance, media and technology, telecommunications and utility, and other industries, as well as government and public sectors. The company was formerly known as Experian Group Limited and changed its name to Experian plc in July 2008. Experian plc was founded in 1826 and is headquartered in Dublin, Ireland."
     },
     "SHEL.L": {
         "Name": "Shell plc",
@@ -4719,8 +4719,8 @@
                 "furLeather": false,
                 "gambling": false,
                 "gmo": false,
-                "governullcePercentile": null,
-                "governullceScore": 7.0,
+                "governancePercentile": null,
+                "governanceScore": 7.0,
                 "highestControversy": 4.0,
                 "maxAge": 86400,
                 "militaryContract": false,
@@ -4737,7 +4737,7 @@
                     "avg": 38.72223880597015,
                     "max": 57.74
                 },
-                "peerGovernullcePerformance": {
+                "peerGovernancePerformance": {
                     "min": 4.85,
                     "avg": 8.271249999999998,
                     "max": 16.54
@@ -4813,7 +4813,7 @@
             "Current Debt And Capital Lease Obligation": 9931000000.0,
             "Current Capital Lease Obligation": 4643000000.0,
             "Current Debt": 5288000000.0,
-            "Pensionulld Other Post Retirement Benefit Plans Current": null,
+            "Pensionand Other Post Retirement Benefit Plans Current": null,
             "Current Provisions": 4041000000.0,
             "Payables": 58524000000.0,
             "Other Payable": 17406000000.0,
@@ -4825,11 +4825,11 @@
             "Defined Pension Benefit": 9151000000.0,
             "Non Current Prepaid Assets": null,
             "Non Current Deferred Taxes Assets": 6454000000.0,
-            "Finullcial Assets": 801000000.0,
-            "Investmentin Finullcial Assets": 3246000000.0,
+            "Financial Assets": 801000000.0,
+            "Investmentin Financial Assets": 3246000000.0,
             "Held To Maturity Securities": 28000000.0,
             "Available For Sale Securities": 2890000000.0,
-            "Finullcial Assets Designatedas Fair Value Through Profitor Loss Total": 328000000.0,
+            "Financial Assets Designatedas Fair Value Through Profitor Loss Total": 328000000.0,
             "Long Term Equity Investment": 24457000000.0,
             "Investmentsin Joint Venturesat Cost": 17382000000.0,
             "Investmentsin Associatesat Cost": 7075000000.0,
@@ -4859,7 +4859,7 @@
             "Cash Cash Equivalents And Short Term Investments": 38774000000.0,
             "Cash And Cash Equivalents": 38774000000.0,
             "Cash Equivalents": 32888000000.0,
-            "Cash Finullcial": 5886000000.0
+            "Cash financial": 5886000000.0
         },
         "Country": "United Kingdom",
         "Currency": "GBp",
@@ -7164,8 +7164,8 @@
                 "furLeather": false,
                 "gambling": false,
                 "gmo": false,
-                "governullcePercentile": null,
-                "governullceScore": 5.24,
+                "governancePercentile": null,
+                "governanceScore": 5.24,
                 "highestControversy": 3.0,
                 "maxAge": 86400,
                 "militaryContract": true,
@@ -7182,7 +7182,7 @@
                     "avg": 29.226956521739137,
                     "max": 39.6
                 },
-                "peerGovernullcePerformance": {
+                "peerGovernancePerformance": {
                     "min": 4.99,
                     "avg": 6.978695652173914,
                     "max": 9.41
@@ -7274,9 +7274,9 @@
             "Non Current Prepaid Assets": 215000000.0,
             "Non Current Deferred Assets": null,
             "Non Current Deferred Taxes Assets": 609000000.0,
-            "Finullcial Assets": 227000000.0,
+            "Financial Assets": 227000000.0,
             "Other Investments": null,
-            "Investmentin Finullcial Assets": 84000000.0,
+            "Investmentin Financial Assets": 84000000.0,
             "Available For Sale Securities": 84000000.0,
             "Long Term Equity Investment": 832000000.0,
             "Investmentsin Joint Venturesat Cost": null,
@@ -7310,7 +7310,7 @@
             "Cash Cash Equivalents And Short Term Investments": 4008000000.0,
             "Cash And Cash Equivalents": 4008000000.0,
             "Cash Equivalents": null,
-            "Cash Finullcial": null
+            "Cash financial": null
         },
         "Country": "United Kingdom",
         "Currency": "GBp",
@@ -9615,8 +9615,8 @@
                 "furLeather": false,
                 "gambling": false,
                 "gmo": false,
-                "governullcePercentile": null,
-                "governullceScore": 4.36,
+                "governancePercentile": null,
+                "governanceScore": 4.36,
                 "highestControversy": 2.0,
                 "maxAge": 86400,
                 "militaryContract": false,
@@ -9633,7 +9633,7 @@
                     "avg": 28.451651376146792,
                     "max": 66.74
                 },
-                "peerGovernullcePerformance": {
+                "peerGovernancePerformance": {
                     "min": 3.36,
                     "avg": 6.156857142857144,
                     "max": 9.45
@@ -9720,9 +9720,9 @@
             "Other Non Current Assets": null,
             "Defined Pension Benefit": 64000000.0,
             "Non Current Deferred Taxes Assets": 456000000.0,
-            "Finullcial Assets": 899000000.0,
+            "Financial Assets": 899000000.0,
             "Other Investments": 61000000.0,
-            "Investmentin Finullcial Assets": 104000000.0,
+            "Investmentin Financial Assets": 104000000.0,
             "Held To Maturity Securities": 72000000.0,
             "Available For Sale Securities": 32000000.0,
             "Long Term Equity Investment": 903000000.0,
@@ -9758,7 +9758,7 @@
         "Industry": "Utilities - Independent Power Producers",
         "Sector": "Utilities",
         "Number of employees": 21432,
-        "Description": "Centrica plc operates as an integrated energy company in the United Kingdom, Ireland, Scandinavia, North America, and internationally. The company operates through British Gas Services & Solutions, British Gas Energy, Centrica Business Solutions, Bord G\u00e1is Energy, Centrica Energy, and Upstream segments. It supplies gas and electricity to residential, commercial, industrial customers, and small businesses, as well as offers energy-related services; and generates power from nuclear assets. The company also provides installation, repair, and maintenullce services for central heating, ventilation, and air conditioning systems, as well as offers breakdown services. In addition, it is involved in the procurement, trading, and optimization of energy; procurement and sale of LNG; development and operation of large-scale power assets; building of solar farm and connecting to grid; and supply of energy efficiency solutions and technologies. Further, the company produces and processes gas and oil; constructs, owns, and exploits infrastructure; offers central heating, boiler and controls, plumbing and drains, and electrical appliance insurance covers; and engages in the social enterprise investment fund activities. Additionally, it provides metering assets and services, vehicle leasing, and energy management products and services; constructs battery storage and gas peakers; and operates a gas storage and franchise network. The company was formerly known as Yieldtop plc and changed its name to Centrica plc in December 1996. Centrica plc was founded in 1812 and is based in Windsor, the United Kingdom."
+        "Description": "Centrica plc operates as an integrated energy company in the United Kingdom, Ireland, Scandinavia, North America, and internationally. The company operates through British Gas Services & Solutions, British Gas Energy, Centrica Business Solutions, Bord G\u00e1is Energy, Centrica Energy, and Upstream segments. It supplies gas and electricity to residential, commercial, industrial customers, and small businesses, as well as offers energy-related services; and generates power from nuclear assets. The company also provides installation, repair, and maintenance services for central heating, ventilation, and air conditioning systems, as well as offers breakdown services. In addition, it is involved in the procurement, trading, and optimization of energy; procurement and sale of LNG; development and operation of large-scale power assets; building of solar farm and connecting to grid; and supply of energy efficiency solutions and technologies. Further, the company produces and processes gas and oil; constructs, owns, and exploits infrastructure; offers central heating, boiler and controls, plumbing and drains, and electrical appliance insurance covers; and engages in the social enterprise investment fund activities. Additionally, it provides metering assets and services, vehicle leasing, and energy management products and services; constructs battery storage and gas peakers; and operates a gas storage and franchise network. The company was formerly known as Yieldtop plc and changed its name to Centrica plc in December 1996. Centrica plc was founded in 1812 and is based in Windsor, the United Kingdom."
     },
     "TSCO.L": {
         "Name": "Tesco PLC",
@@ -12056,8 +12056,8 @@
                 "furLeather": false,
                 "gambling": false,
                 "gmo": false,
-                "governullcePercentile": null,
-                "governullceScore": 4.84,
+                "governancePercentile": null,
+                "governanceScore": 4.84,
                 "highestControversy": 3.0,
                 "maxAge": 86400,
                 "militaryContract": false,
@@ -12074,7 +12074,7 @@
                     "avg": 22.41757575757576,
                     "max": 28.53
                 },
-                "peerGovernullcePerformance": {
+                "peerGovernancePerformance": {
                     "min": 4.08,
                     "avg": 5.907812500000001,
                     "max": 7.57
@@ -12164,11 +12164,11 @@
             "Other Non Current Assets": null,
             "Defined Pension Benefit": 22000000.0,
             "Non Current Deferred Taxes Assets": 32000000.0,
-            "Finullcial Assets": 781000000.0,
+            "Financial Assets": 781000000.0,
             "Other Investments": null,
-            "Investmentin Finullcial Assets": 1546000000.0,
+            "Investmentin Financial Assets": 1546000000.0,
             "Available For Sale Securities": 1545000000.0,
-            "Finullcial Assets Designatedas Fair Value Through Profitor Loss Total": 1000000.0,
+            "Financial Assets Designatedas Fair Value Through Profitor Loss Total": 1000000.0,
             "Long Term Equity Investment": 102000000.0,
             "Investmentsin Joint Venturesat Cost": 102000000.0,
             "Investmentsin Associatesat Cost": null,
@@ -12198,7 +12198,7 @@
             "Other Short Term Investments": 2334000000.0,
             "Cash And Cash Equivalents": 2310000000.0,
             "Cash Equivalents": null,
-            "Cash Finullcial": null
+            "Cash financial": null
         },
         "Country": "United Kingdom",
         "Currency": "GBp",
@@ -14503,8 +14503,8 @@
                 "furLeather": false,
                 "gambling": false,
                 "gmo": false,
-                "governullcePercentile": null,
-                "governullceScore": 6.67,
+                "governancePercentile": null,
+                "governanceScore": 6.67,
                 "highestControversy": 1.0,
                 "maxAge": 86400,
                 "militaryContract": false,
@@ -14521,7 +14521,7 @@
                     "avg": 21.16371134020618,
                     "max": 39.88
                 },
-                "peerGovernullcePerformance": {
+                "peerGovernancePerformance": {
                     "min": 4.95,
                     "avg": 10.208510638297872,
                     "max": 15.29
@@ -14595,11 +14595,11 @@
             "Accounts Payable": null,
             "Total Assets": 174066000000.0,
             "Non Current Deferred Taxes Assets": 156000000.0,
-            "Finullcial Assets": 1855000000.0,
+            "Financial Assets": 1855000000.0,
             "Investments And Advances": 151612000000.0,
-            "Investmentin Finullcial Assets": 149672000000.0,
+            "Investmentin Financial Assets": 149672000000.0,
             "Available For Sale Securities": null,
-            "Finullcial Assets Designatedas Fair Value Through Profitor Loss Total": null,
+            "Financial Assets Designatedas Fair Value Through Profitor Loss Total": null,
             "Long Term Equity Investment": 1940000000.0,
             "Investment Properties": 39000000.0,
             "Goodwill And Other Intangible Assets": 4882000000.0,
@@ -14620,7 +14620,7 @@
         "Country": "Hong Kong",
         "Currency": "GBp",
         "Industry": "Insurance - Life",
-        "Sector": "Finullcial Services",
+        "Sector": "financial Services",
         "Number of employees": 15030,
         "Description": "Prudential plc, through its subsidiaries, provides life and health insurance, and asset management solutions to individuals in Asia and Africa. The company was founded in 1848 and is headquartered in Central, Hong Kong."
     },
@@ -16911,8 +16911,8 @@
                 "furLeather": false,
                 "gambling": false,
                 "gmo": false,
-                "governullcePercentile": null,
-                "governullceScore": 4.19,
+                "governancePercentile": null,
+                "governanceScore": 4.19,
                 "highestControversy": 2.0,
                 "maxAge": 86400,
                 "militaryContract": false,
@@ -16929,7 +16929,7 @@
                     "avg": 19.044444444444444,
                     "max": 25.36
                 },
-                "peerGovernullcePerformance": {
+                "peerGovernancePerformance": {
                     "min": 3.58,
                     "avg": 4.816666666666666,
                     "max": 5.66
@@ -16998,7 +16998,7 @@
             "Long Term Provisions": 161700000.0,
             "Current Liabilities": 948900000.0,
             "Other Current Liabilities": null,
-            "Pensionulld Other Post Retirement Benefit Plans Current": 5600000.0,
+            "Pensionand Other Post Retirement Benefit Plans Current": 5600000.0,
             "Current Provisions": 121500000.0,
             "Payables": 583700000.0,
             "Other Payable": 270800000.0,
@@ -19332,8 +19332,8 @@
                 "furLeather": false,
                 "gambling": false,
                 "gmo": false,
-                "governullcePercentile": null,
-                "governullceScore": 8.29,
+                "governancePercentile": null,
+                "governanceScore": 8.29,
                 "highestControversy": 2.0,
                 "maxAge": 86400,
                 "militaryContract": false,
@@ -19350,12 +19350,12 @@
                     "avg": 19.73976744186046,
                     "max": 36.92
                 },
-                "peerGovernullcePerformance": {
+                "peerGovernancePerformance": {
                     "min": 4.39,
                     "avg": 10.240617283950622,
                     "max": 19.14
                 },
-                "peerGroup": "Diversified Finullcials",
+                "peerGroup": "Diversified financials",
                 "peerHighestControversyPerformance": {
                     "min": 0.0,
                     "avg": 1.5,
@@ -19432,11 +19432,11 @@
             "Defined Pension Benefit": 138300000.0,
             "Non Current Prepaid Assets": 4200000.0,
             "Non Current Deferred Taxes Assets": 203900000.0,
-            "Finullcial Assets": 15000000.0,
-            "Investmentin Finullcial Assets": 10811800000.0,
+            "Financial Assets": 15000000.0,
+            "Investmentin Financial Assets": 10811800000.0,
             "Held To Maturity Securities": 356700000.0,
             "Available For Sale Securities": 9555000000.0,
-            "Finullcial Assets Designatedas Fair Value Through Profitor Loss Total": 900100000.0,
+            "Financial Assets Designatedas Fair Value Through Profitor Loss Total": 900100000.0,
             "Long Term Equity Investment": 531700000.0,
             "Investmentsin Joint Venturesat Cost": 183500000.0,
             "Investmentsin Associatesat Cost": 348200000.0,
@@ -19463,9 +19463,9 @@
         "Country": "United Kingdom",
         "Currency": "GBp",
         "Industry": "Asset Management",
-        "Sector": "Finullcial Services",
+        "Sector": "financial Services",
         "Number of employees": 6438,
-        "Description": "Schroders plc is a publicly owned investment manager. The firm also provides advisory and consultancy services. It provides its services to finullcial institutions, high net worth clients, large corporate, local authority, charitable entities, individuals, pension plans, government funds, insurance companies, and endowments. The firm launches and manages equity mutual funds and manages fixed income mutual funds for its clients. It also manages hedge for its clients. The firm invests in the public equity, fixed income, and alternative investment markets across the globe. The firm's alternative investments include real estate markets, emerging market debt, commodities and agriculture funds, funds of hedge funds and private equity funds of funds. It conducts an in-house research to make its investments. The company was formerly known as New Schroders plc and changed its name to Schroders plc in April 2000. Schroders plc was founded on 1804 and is headquartered in London, United Kingdom."
+        "Description": "Schroders plc is a publicly owned investment manager. The firm also provides advisory and consultancy services. It provides its services to financial institutions, high net worth clients, large corporate, local authority, charitable entities, individuals, pension plans, government funds, insurance companies, and endowments. The firm launches and manages equity mutual funds and manages fixed income mutual funds for its clients. It also manages hedge for its clients. The firm invests in the public equity, fixed income, and alternative investment markets across the globe. The firm's alternative investments include real estate markets, emerging market debt, commodities and agriculture funds, funds of hedge funds and private equity funds of funds. It conducts an in-house research to make its investments. The company was formerly known as New Schroders plc and changed its name to Schroders plc in April 2000. Schroders plc was founded on 1804 and is headquartered in London, United Kingdom."
     },
     "AHT.L": {
         "Name": "Ashtead Group plc",
@@ -21763,8 +21763,8 @@
                 "furLeather": false,
                 "gambling": false,
                 "gmo": false,
-                "governullcePercentile": null,
-                "governullceScore": 5.64,
+                "governancePercentile": null,
+                "governanceScore": 5.64,
                 "highestControversy": 0.0,
                 "maxAge": 86400,
                 "militaryContract": false,
@@ -21781,7 +21781,7 @@
                     "avg": 20.020588235294117,
                     "max": 26.94
                 },
-                "peerGovernullcePerformance": {
+                "peerGovernancePerformance": {
                     "min": 4.26,
                     "avg": 6.425882352941176,
                     "max": 8.38
@@ -21872,7 +21872,7 @@
             "Total Non Current Assets": 19605300000.0,
             "Other Non Current Assets": 120400000.0,
             "Defined Pension Benefit": 0.0,
-            "Investmentin Finullcial Assets": 57000000.0,
+            "Investmentin Financial Assets": 57000000.0,
             "Goodwill And Other Intangible Assets": 3697400000.0,
             "Other Intangible Assets": 485900000.0,
             "Goodwill": 3211500000.0,
@@ -21895,7 +21895,7 @@
             "Gross Accounts Receivable": 1668800000.0,
             "Cash Cash Equivalents And Short Term Investments": 20800000.0,
             "Cash And Cash Equivalents": 20800000.0,
-            "Cash Finullcial": null
+            "Cash financial": null
         },
         "Country": "United Kingdom",
         "Currency": "GBp",
@@ -24200,8 +24200,8 @@
                 "furLeather": false,
                 "gambling": false,
                 "gmo": false,
-                "governullcePercentile": null,
-                "governullceScore": 3.64,
+                "governancePercentile": null,
+                "governanceScore": 3.64,
                 "highestControversy": 2.0,
                 "maxAge": 86400,
                 "militaryContract": false,
@@ -24218,7 +24218,7 @@
                     "avg": 28.451651376146792,
                     "max": 66.74
                 },
-                "peerGovernullcePerformance": {
+                "peerGovernancePerformance": {
                     "min": 3.36,
                     "avg": 6.156857142857144,
                     "max": 9.45
@@ -24301,9 +24301,9 @@
             "Total Assets": 28270200000.0,
             "Total Non Current Assets": 22911300000.0,
             "Defined Pension Benefit": 421600000.0,
-            "Finullcial Assets": 64200000.0,
+            "Financial Assets": 64200000.0,
             "Other Investments": null,
-            "Investmentin Finullcial Assets": 3200000.0,
+            "Investmentin Financial Assets": 3200000.0,
             "Available For Sale Securities": 3200000.0,
             "Long Term Equity Investment": 1963200000.0,
             "Goodwill And Other Intangible Assets": 2324600000.0,
@@ -24339,7 +24339,7 @@
         "Industry": "Utilities - Diversified",
         "Sector": "Utilities",
         "Number of employees": 14980,
-        "Description": "SSE plc engages in the generation, transmission, distribution, and supply of electricity. It generates electricity from water, gas, coal, oil, and multi fuel. The company distributes electricity to approximately 3.9 million homes and businesses across southern central England and the north of Scotland; and operates electricity transmission network in the north of Scotland and other areas. It also operates gas storage and generation facilities. In addition, it engages in the construction of utility projects; and building energy management, energy trading, insurance, stock holding, and property holding businesses, as well as provides utility, corporate, and maintenullce services. The company was formerly known as Scottish and Southern Energy plc and changed its name to SSE plc in September 2011. SSE plc was incorporated in 1989 and is based in Perth, the United Kingdom."
+        "Description": "SSE plc engages in the generation, transmission, distribution, and supply of electricity. It generates electricity from water, gas, coal, oil, and multi fuel. The company distributes electricity to approximately 3.9 million homes and businesses across southern central England and the north of Scotland; and operates electricity transmission network in the north of Scotland and other areas. It also operates gas storage and generation facilities. In addition, it engages in the construction of utility projects; and building energy management, energy trading, insurance, stock holding, and property holding businesses, as well as provides utility, corporate, and maintenance services. The company was formerly known as Scottish and Southern Energy plc and changed its name to SSE plc in September 2011. SSE plc was incorporated in 1989 and is based in Perth, the United Kingdom."
     },
     "BATS.L": {
         "Name": "British American Tobacco p.l.c.",
@@ -26637,8 +26637,8 @@
                 "furLeather": false,
                 "gambling": false,
                 "gmo": false,
-                "governullcePercentile": null,
-                "governullceScore": 11.9,
+                "governancePercentile": null,
+                "governanceScore": 11.9,
                 "highestControversy": 3.0,
                 "maxAge": 86400,
                 "militaryContract": false,
@@ -26655,7 +26655,7 @@
                     "avg": 28.132608695652166,
                     "max": 48.32
                 },
-                "peerGovernullcePerformance": {
+                "peerGovernancePerformance": {
                     "min": 3.59,
                     "avg": 6.302272727272728,
                     "max": 11.9
@@ -26740,11 +26740,11 @@
             "Total Non Current Assets": 104530000000.0,
             "Defined Pension Benefit": 956000000.0,
             "Non Current Deferred Taxes Assets": 911000000.0,
-            "Finullcial Assets": 109000000.0,
+            "Financial Assets": 109000000.0,
             "Other Investments": null,
-            "Investmentin Finullcial Assets": 118000000.0,
+            "Investmentin Financial Assets": 118000000.0,
             "Available For Sale Securities": 67000000.0,
-            "Finullcial Assets Designatedas Fair Value Through Profitor Loss Total": 51000000.0,
+            "Financial Assets Designatedas Fair Value Through Profitor Loss Total": 51000000.0,
             "Long Term Equity Investment": 1970000000.0,
             "Goodwill And Other Intangible Assets": 95562000000.0,
             "Other Intangible Assets": 54471000000.0,
@@ -26770,7 +26770,7 @@
             "Other Short Term Investments": 601000000.0,
             "Cash And Cash Equivalents": 2363000000.0,
             "Cash Equivalents": null,
-            "Cash Finullcial": null
+            "Cash financial": null
         },
         "Country": "United Kingdom",
         "Currency": "GBp",
@@ -29075,8 +29075,8 @@
                 "furLeather": false,
                 "gambling": false,
                 "gmo": false,
-                "governullcePercentile": null,
-                "governullceScore": 4.85,
+                "governancePercentile": null,
+                "governanceScore": 4.85,
                 "highestControversy": 1.0,
                 "maxAge": 86400,
                 "militaryContract": false,
@@ -29093,7 +29093,7 @@
                     "avg": 15.591935483870968,
                     "max": 27.28
                 },
-                "peerGovernullcePerformance": {
+                "peerGovernancePerformance": {
                     "min": 2.91,
                     "avg": 4.872413793103448,
                     "max": 8.09
@@ -29176,10 +29176,10 @@
             "Defined Pension Benefit": 3000000.0,
             "Non Current Deferred Assets": 224000000.0,
             "Non Current Deferred Taxes Assets": 43000000.0,
-            "Finullcial Assets": 57000000.0,
+            "Financial Assets": 57000000.0,
             "Other Investments": 21000000.0,
-            "Investmentin Finullcial Assets": null,
-            "Finullcial Assets Designatedas Fair Value Through Profitor Loss Total": null,
+            "Investmentin Financial Assets": null,
+            "Financial Assets Designatedas Fair Value Through Profitor Loss Total": null,
             "Long Term Equity Investment": 44000000.0,
             "Investmentsin Associatesat Cost": 44000000.0,
             "Goodwill And Other Intangible Assets": 7042000000.0,
@@ -29206,14 +29206,14 @@
             "Other Short Term Investments": 1000000.0,
             "Cash And Cash Equivalents": 1547000000.0,
             "Cash Equivalents": 482000000.0,
-            "Cash Finullcial": 1065000000.0
+            "Cash financial": 1065000000.0
         },
         "Country": "United Kingdom",
         "Currency": "GBp",
         "Industry": "Specialty Business Services",
         "Sector": "Industrials",
         "Number of employees": 62931,
-        "Description": "Rentokil Initial plc, together with its subsidiaries, provides route-based services in North America, the United Kingdom, rest of Europe, Asia, the Pacific, and internationally. It offers a range of pest control services for rodents, and flying and crawling insects, as well as other forms of wildlife management for commercial customers. The company provides hygiene services, including the provision and maintenullce of products, such as soap and hand sanitizer dispensers, hand dryers, air care and purification, cubicle and surface sanitizers, feminine hygiene units, toilet paper dispensers, and floor protection mats. In addition, it engages in the supply and maintenullce of workwear and protective equipment. Further, the company offers property care services; and provides a range of specialist cleaning services, such as graffiti removal deep cleaning of kitchens and washrooms, trauma cleaning, and flood or fire damage cleaning, as well as specialist medical and hygiene services. Rentokil Initial plc was founded in 1903 and is headquartered in Crawley, the United Kingdom."
+        "Description": "Rentokil Initial plc, together with its subsidiaries, provides route-based services in North America, the United Kingdom, rest of Europe, Asia, the Pacific, and internationally. It offers a range of pest control services for rodents, and flying and crawling insects, as well as other forms of wildlife management for commercial customers. The company provides hygiene services, including the provision and maintenance of products, such as soap and hand sanitizer dispensers, hand dryers, air care and purification, cubicle and surface sanitizers, feminine hygiene units, toilet paper dispensers, and floor protection mats. In addition, it engages in the supply and maintenullce of workwear and protective equipment. Further, the company offers property care services; and provides a range of specialist cleaning services, such as graffiti removal deep cleaning of kitchens and washrooms, trauma cleaning, and flood or fire damage cleaning, as well as specialist medical and hygiene services. Rentokil Initial plc was founded in 1903 and is headquartered in Crawley, the United Kingdom."
     },
     "SMIN.L": {
         "Name": "Smiths Group plc",
@@ -31511,8 +31511,8 @@
                 "furLeather": false,
                 "gambling": false,
                 "gmo": false,
-                "governullcePercentile": null,
-                "governullceScore": 4.55,
+                "governancePercentile": null,
+                "governanceScore": 4.55,
                 "highestControversy": 2.0,
                 "maxAge": 86400,
                 "militaryContract": true,
@@ -31529,7 +31529,7 @@
                     "avg": 38.02270270270269,
                     "max": 57.59
                 },
-                "peerGovernullcePerformance": {
+                "peerGovernancePerformance": {
                     "min": 4.55,
                     "avg": 9.180285714285713,
                     "max": 12.86
@@ -31614,10 +31614,10 @@
             "Non Current Prepaid Assets": null,
             "Non Current Deferred Assets": 13000000.0,
             "Non Current Deferred Taxes Assets": 95000000.0,
-            "Finullcial Assets": null,
-            "Investmentin Finullcial Assets": 354000000.0,
+            "Financial Assets": null,
+            "Investmentin Financial Assets": 354000000.0,
             "Available For Sale Securities": 354000000.0,
-            "Finullcial Assets Designatedas Fair Value Through Profitor Loss Total": null,
+            "Financial Assets Designatedas Fair Value Through Profitor Loss Total": null,
             "Goodwill And Other Intangible Assets": 1521000000.0,
             "Other Intangible Assets": 312000000.0,
             "Goodwill": 1209000000.0,
@@ -31646,7 +31646,7 @@
             "Cash Cash Equivalents And Short Term Investments": 285000000.0,
             "Cash And Cash Equivalents": 285000000.0,
             "Cash Equivalents": 110000000.0,
-            "Cash Finullcial": 175000000.0
+            "Cash financial": 175000000.0
         },
         "Country": "United Kingdom",
         "Currency": "GBp",
